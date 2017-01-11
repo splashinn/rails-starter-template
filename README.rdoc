@@ -1,4 +1,4 @@
-== README
+== Starter Template
 
 Rails 4 Project Template
 - nothing fancy, just a basic template for starting projects.
